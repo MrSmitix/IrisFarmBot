@@ -2,8 +2,8 @@
 IrisFarmBot - автоматический бот для фарма ирис-койнов
 
 
-## Бот возможно ещё работает, но эта версия больше не поддерживается! Новый, улучшенный IrisFarmBot находится в [IrisFarmBotWeb](https://github.com/MrSmitix/IrisFarmBotWeb)
-Если техничка вам не интересна и вообще вы на этом сайте в первый раз, можете сразу подключаться к фарму на [IrisFarmBot.ru](https://IrisFarmBot.ru/) или [IrisFarmBot.store](https://IrisFarmBot.store/)
+## Этот бот больше не работает, эта версия больше не поддерживается! Новый, улучшенный IrisFarmBot находится в [IrisFarmBotWeb](https://github.com/MrSmitix/IrisFarmBotWeb)
+Если техничка вам не интересна и вообще вы на этом сайте в первый раз, можете сразу подключаться к фарму на [IrisFarmBot.ru](https://IrisFarmBot.ru/)
 
 ## А как это работает?
 
